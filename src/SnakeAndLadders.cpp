@@ -1,13 +1,5 @@
 /* Program to demonstrate snake and ladders
 
-***Group Members*** 
-
-1) Abhishek Kumar
-2) Ritik Gaur
-3) Abhishek Kannaujia
-4) Aryaman
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
